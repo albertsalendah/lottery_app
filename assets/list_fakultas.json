@@ -1,0 +1,107 @@
+[
+    {
+        "nama_fakultas": "Fakultas Biologi",
+        "list_progdi":[
+            {"kode_progdi" : "41"},
+            {"kode_progdi" : "43"}
+        ]
+    },{
+        "nama_fakultas": "FBS",
+        "list_progdi":[
+            {"kode_progdi" : "85"},
+            {"kode_progdi" : "11"},
+            {"kode_progdi" : "39"}
+        ]
+    },{
+        "nama_fakultas": "FEB",
+        "list_progdi":[
+            {"kode_progdi" : "23"},
+            {"kode_progdi" : "22"},
+            {"kode_progdi" : "21"}
+        ]
+    },{
+        "nama_fakultas": "Fakultas Hukum",
+        "list_progdi":[
+            {"kode_progdi" : "31"}
+        ]
+    },{
+        "nama_fakultas": "Fakultas Interdisiplin",
+        "list_progdi":[
+            {"kode_progdi" : "73"}
+        ]
+    },{
+        "nama_fakultas": "FISKOM",
+        "list_progdi":[
+            {"kode_progdi" : "37"},
+            {"kode_progdi" : "36"},
+            {"kode_progdi" : "35"}
+        ]
+    },{
+        "nama_fakultas": "FKIK",
+        "list_progdi":[
+            {"kode_progdi" : "46"},
+            {"kode_progdi" : "47"},
+            {"kode_progdi" : "48"},
+            {"kode_progdi" : "49"}
+        ]
+    },{
+        "nama_fakultas": "FKIP",
+        "list_progdi":[
+            {"kode_progdi" : "17"},
+            {"kode_progdi" : "15"},
+            {"kode_progdi" : "95"},
+            {"kode_progdi" : "27"},
+            {"kode_progdi" : "16"},
+            {"kode_progdi" : "20"},
+            {"kode_progdi" : "13"},
+            {"kode_progdi" : "29"}
+        ]
+    },{
+        "nama_fakultas": "FPB",
+        "list_progdi":[
+            {"kode_progdi" : "52"},
+            {"kode_progdi" : "51"},
+            {"kode_progdi" : "53"}
+        ]
+    },{
+        "nama_fakultas": "FPSI",
+        "list_progdi":[
+            {"kode_progdi" : "80"},
+            {"kode_progdi" : "83"}
+        ]
+    },{
+        "nama_fakultas": "FSM",
+        "list_progdi":[
+            {"kode_progdi" : "19"},
+            {"kode_progdi" : "64"},
+            {"kode_progdi" : "65"},
+            {"kode_progdi" : "66"},
+            {"kode_progdi" : "63"}
+        ]
+    },{
+        "nama_fakultas": "FTEK",
+        "list_progdi":[
+            {"kode_progdi" : "61"},
+            {"kode_progdi" : "62"}
+        ]
+    },{
+        "nama_fakultas": "FTEOL",
+        "list_progdi":[
+            {"kode_progdi" : "71"},
+            {"kode_progdi" : "75"},
+            {"kode_progdi" : "76"}
+        ]
+    },{
+        "nama_fakultas": "FTI",
+        "list_progdi":[
+            {"kode_progdi" : "56"},
+            {"kode_progdi" : "70"},
+            {"kode_progdi" : "60"},
+            {"kode_progdi" : "84"},
+            {"kode_progdi" : "74"},
+            {"kode_progdi" : "68"},
+            {"kode_progdi" : "69"},
+            {"kode_progdi" : "67"}
+        ]
+    }
+]
